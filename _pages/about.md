@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Boyang Li's page"
+title: "Boyang Li"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
