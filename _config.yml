@@ -20,7 +20,7 @@ description              : &description "Boyang Li is currently pursuing a Ph.D.
                                         from the University of Southampton, Southampton, Hampshire, UK.
                                         His research interests include machine learning, optimization, and novel blockchain mechanism.
                                         His paper has won the best student paper award (IEEE BIOMETRICS COUNCIL, 2019)"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://bli1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bli1.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
