@@ -11,12 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D. Candidate in University of Notre Dame, 2015 -- present
-* Ph.D. Candidate in Missouri University of Science and Technology, 2014 -- 2015 
+* 2015 -- present, Ph.D. Candidate in University of Notre Dame,
+* 2014 -- 2015, Ph.D. Candidate in Missouri University of Science and Technology,
+* 2009 -- 2011, M.S. in University of Southampton,
+* 2005 -- 2009, B.S. in Xi'an University of Posts and Telecommunications, 
 
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 Work experience
 ======
