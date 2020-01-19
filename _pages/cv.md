@@ -49,6 +49,14 @@ Projects
         • Developed a scheduler which aims to minimize the expected sum of electricity cost under the privacy awareness constraint in a smart home system.
         • Developed an iterative alternative algorithm to schedule appliances and rechargeable battery thus protects customer privacy and alleviates the influence of operation uncertainties introduced by non-schedulable appliances.
 
+* Other Projects
+
+        Short Video Understanding Challenge: predicted the probability that each user finishes watching and likes a given video based on a content-based, collaborative-based, and knowledge-based dataset.
+        Hybrid movie recommendation: suggested movies based on user preference, genre, and theme, and collaborative information, respectively.
+        Live basic math auto grader: applied for checking the handwritten basic math equations based on the MNIST classifier.
+        Language translator: implemented a statistical machine translation model that applied finite automata, transducer, n-gram language model and hard EM algorithm.
+
+
 Work experience
 ======
 * Summer 2015: Research Assistant
