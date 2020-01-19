@@ -17,6 +17,25 @@ Education
 * 2005 -- 2009, B.S. in Xi'an University of Posts and Telecommunications, 
 
 
+Skills
+======
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
+
+Projects
+======
+* Biomedical Image Segmentation Exploiting Computation Power of Blockchain
+
+        • Proposed a novel consensus to exploit the computation power of blockchain for biomedical image segmentation.
+
+        • Designed augmented block header and body, task scheduler in block interval and neural network regularization for the model protection.
+
+        • Embedded watermark in deep learning models which will protect the ownership.
+
 Work experience
 ======
 * Summer 2015: Research Assistant
@@ -29,14 +48,6 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
