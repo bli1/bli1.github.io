@@ -85,7 +85,11 @@ analytics:
 author:
   name             : "Boyang Li"
   avatar           : "profile.png"
-  bio              : "Boyang Li is currently pursuing a Ph.D. "
+  bio              : "Boyang Li is currently pursuing a Ph.D. degree with the Department of Computer Science and Engineering at the University of Notre Dame,
+                      Notre Dame, IN, USA. He received his B.S. degree in Electrical Science and Technology
+                      from Xi’an University of Post and Telecommunication, Xi’an, Shaanxi, China. He received his Master’s Degree in electronics and computer engineering
+                      from the University of Southampton, Southampton, Hampshire, UK.
+                      His research interests include machine learning, optimization, and novel blockchain mechanism."
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
