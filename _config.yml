@@ -10,9 +10,8 @@ locale                   : "en-US"
 title                    : "Boyang Li / Ph.D. Candidate at University of Notre Dame"
 title_separator          : "-"
 name                     : &name "Boyang Li"
-description              : &description ""
+description              : &description "Personal Page"
 
-#                                        His paper has won the best student paper award (IEEE BIOMETRICS COUNCIL, 2019)
 
 url                      : https://bli1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
