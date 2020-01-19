@@ -11,15 +11,7 @@ title                    : "Boyang Li / Ph.D. Candidate"
 title_separator          : "-"
 name                     : &name "Boyang Li"
 description              : &description ""
-#Boyang Li is currently pursuing a Ph.D. degree with the Department
-  #                                        of Computer Science and Engineering at the University of Notre Dame,
-  #                                        Notre Dame, IN, USA. He received his B.S. degree
-  #                                        in Electrical Science and Technology
-  #                                        from Xi’an University of Post and Telecommunication, Xi’an, Shaanxi, China.
-  #
-  #                                        He received his Master’s Degree in electronics and computer engineering
-  #                                        from the University of Southampton, Southampton, Hampshire, UK.
-#                                        His research interests include machine learning, optimization, and novel blockchain mechanism.
+
 #                                        His paper has won the best student paper award (IEEE BIOMETRICS COUNCIL, 2019)
 
 url                      : https://bli1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -42,7 +34,7 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
-  allowedFields          : ['Boyang Li', 'bli1@nd.edu', 'https://bli1.github.io', 'message']
+  allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
@@ -77,8 +69,8 @@ og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
+  type                   : Person # Person or Organization (defaults to Person)
+  name                   : Boyang Li # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
 
@@ -91,9 +83,17 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Boyang Li"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Boyang Li is currently pursuing a Ph.D. degree with the Department
+                                                                of Computer Science and Engineering at the University of Notre Dame,
+                                                                Notre Dame, IN, USA. He received his B.S. degree
+                                                                in Electrical Science and Technology
+                                                                from Xi’an University of Post and Telecommunication, Xi’an, Shaanxi, China.
+
+                                                                He received his Master’s Degree in electronics and computer engineering
+                                                                from the University of Southampton, Southampton, Hampshire, UK.
+                                                            His research interests include machine learning, optimization, and novel blockchain mechanism."
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
