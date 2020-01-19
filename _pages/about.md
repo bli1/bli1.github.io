@@ -22,7 +22,7 @@ and novel blockchain mechanism.
 
 Self Promotion
 ======
-Boyang Li is a fourth year Ph.D. candidate at the University of Notre Dame. 
+Boyang Li is a fifth year Ph.D. candidate at the University of Notre Dame. 
 He is one of the top Ph.D. research in his school. 
 His research is focused on deep learning, 
 and he has published several research papers at world-leading conferences 
