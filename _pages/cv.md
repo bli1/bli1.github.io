@@ -52,10 +52,10 @@ Projects
 
 * Other Projects
 
-        Short Video Understanding Challenge: predicted the probability that each user finishes watching and likes a given video based on a content-based, collaborative-based, and knowledge-based dataset.
-        Hybrid movie recommendation: suggested movies based on user preference, genre, and theme, and collaborative information, respectively.
-        Live basic math auto grader: applied for checking the handwritten basic math equations based on the MNIST classifier.
-        Language translator: implemented a statistical machine translation model that applied finite automata, transducer, n-gram language model and hard EM algorithm.
+        i) Short Video Understanding Challenge: predicted the probability that each user finishes watching and likes a given video based on a content-based, collaborative-based, and knowledge-based dataset.
+        ii) Hybrid movie recommendation: suggested movies based on user preference, genre, and theme, and collaborative information, respectively.
+        iii) Live basic math auto grader: applied for checking the handwritten basic math equations based on the MNIST classifier.
+        iv) Language translator: implemented a statistical machine translation model that applied finite automata, transducer, n-gram language model and hard EM algorithm.
 
 
 Award
