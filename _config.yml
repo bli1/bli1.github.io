@@ -7,13 +7,22 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Boyang Li / Ph.D. Candidate"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Boyang Li"
+description              : &description "Boyang Li is currently pursuing a Ph.D. degree with the Department
+                                        of Computer Science and Engineering at the University of Notre Dame,
+                                        Notre Dame, IN, USA. He received his B.S. degree
+                                        in Electrical Science and Technology
+                                        from Xi’an University of Post and Telecommunication, Xi’an, Shaanxi, China.
+
+                                        He received his Master’s Degree in electronics and computer engineering
+                                        from the University of Southampton, Southampton, Hampshire, UK.
+                                        His research interests include machine learning, optimization, and novel blockchain mechanism.
+                                        His paper has won the best student paper award (IEEE BIOMETRICS COUNCIL, 2019)"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "bli1.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
