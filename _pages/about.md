@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+developing...
 
 Biography
 ======
