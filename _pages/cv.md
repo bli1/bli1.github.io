@@ -26,6 +26,7 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
+
 Projects
 ======
 * Biomedical Image Segmentation Exploiting Computation Power of Blockchain
@@ -56,6 +57,11 @@ Projects
         Live basic math auto grader: applied for checking the handwritten basic math equations based on the MNIST classifier.
         Language translator: implemented a statistical machine translation model that applied finite automata, transducer, n-gram language model and hard EM algorithm.
 
+
+Award
+======
+* IEEE Biometric Council Best Student Paper Award at 2019 CVPR workshop
+* University of Notre Dame Internal Grand Award (2019)
 
 Work experience
 ======
