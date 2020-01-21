@@ -30,4 +30,5 @@ and he has published several research papers at world-leading conferences
 and workshops of the deep learning area. Besides exceptional research, 
 he is passionate about developing new ideas and projects by leveraging 
 state-of-the-art deep learning methodologies. He is research-oriented 
-with a strong background in computer algorithms and programming.  
+with a strong background in computer algorithms and programming. 
+His paper has won the best student paper award (IEEE BIOMETRICS COUNCIL, 2019) 
