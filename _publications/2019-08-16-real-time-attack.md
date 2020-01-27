@@ -1,7 +1,7 @@
 ---
 title: "Real-Time Adversarial Attacks"
 collection: publications
-permalink: /publication/2019-08-16-real-time-attack-3
+permalink: /publication/2019-08-16-real-time-attack
 date: 2019-08-16
 paperurl: 'https://www.ijcai.org/Proceedings/2019/0649.pdf'
 citation: 'Gong, Yuan, Boyang Li, Christian Poellabauer, and Yiyu Shi. "Real-time adversarial attacks." In Proceedings of the 28th International Joint Conference on Artificial Intelligence, pp. 4672-4680. AAAI Press, 2019.'
