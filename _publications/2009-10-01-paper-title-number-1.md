@@ -1,15 +1,24 @@
 ---
-title: "Paper Title Number 1"
+title: "Privacy-Aware Cost-Effective Scheduling Considering Non-Schedulable Appliances in Smart Home"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+
+permalink: /publication/Privacy-Aware Cost-Effective Scheduling Considering Non-Schedulable Appliances in Smart Home
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
+A Smart home provides integrating and electronic information services to help residential users manage their energy usage and bill cost, but also exposes users to significant privacy risks due to fine-grained information collected by smart meters. Taking account of users' privacy concerns, this paper focuses on cost-effective runtime scheduling designed for schedulable and non-schedulable appliances. To alleviate the influence of operation uncertainties introduced by non-schedulable appliances, we formulate the problem by minimizing the expected sum of electricity cost under the worst privacy situation. Inventing the iterative alternative algorithm, we effectively schedule the appliances and rechargeable battery in a cost-effective way while satisfying users' privacy requirement. Experimental evaluation based on real-world data demonstrates the effectiveness of the proposed algorithm.
 [Download paper here](https://arxiv.org/pdf/1909.05300.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: 
+
+@inproceedings{li2019privacy,
+  title={Privacy-Aware Cost-Effective Scheduling Considering Non-Schedulable Appliances in Smart Home},
+  author={Li, Boyang and Wu, Jie and Shi, Yiyu},
+  booktitle={2019 IEEE International Conference on Embedded Software and Systems (ICESS)},
+  pages={1--8},
+  year={2019},
+  organization={IEEE}
+}
