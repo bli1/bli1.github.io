@@ -1,6 +1,7 @@
 ---
 title: "Privacy-Aware Cost-Effective Scheduling Considering Non-Schedulable Appliances in Smart Home"
 collection: publications
+permalink: /publication/2019-06-01-smart-home
 date: 2019-06-01
 venue: 'June 1'
 paperurl: 'https://arxiv.org/pdf/1909.05300.pdf'
