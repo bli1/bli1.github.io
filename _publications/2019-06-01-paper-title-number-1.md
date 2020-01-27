@@ -3,6 +3,8 @@ title: "Privacy-Aware Cost-Effective Scheduling Considering Non-Schedulable Appl
 collection: publications
 
 date: 2019-06-01
+venue: 'June 1'
+
 paperurl: 'https://arxiv.org/pdf/1909.05300.pdf'
 citation: 'Li, Boyang, Jie Wu, and Yiyu Shi. "Privacy-Aware Cost-Effective Scheduling Considering Non-Schedulable Appliances in Smart Home." In 2019 IEEE International Conference on Embedded Software and Systems (ICESS), pp. 1-8. IEEE, 2019.'
 ---
