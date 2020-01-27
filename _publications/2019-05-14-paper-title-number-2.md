@@ -1,0 +1,20 @@
+---
+title: "Energy-recycling blockchain with proof-of-deep-learning"
+collection: publications
+
+date: 2019-05-14
+paperurl: 'https://arxiv.org/pdf/1902.03912.pdf'
+citation: 'Chenli, Changhao, Boyang Li, Yiyu Shi, and Taeho Jung. "Energy-recycling blockchain with proof-of-deep-learning." In 2019 IEEE International Conference on Blockchain and Cryptocurrency (ICBC), pp. 19-23. IEEE, 2019.'
+---
+An enormous amount of energy is wasted in Proofof-Work (PoW) mechanisms adopted by popular blockchain applications (e.g., PoW-based cryptocurrencies), because miners must conduct a large amount of computation. Owing to this, one serious rising concern is that the energy waste not only dilutes the value of the blockchain but also hinders its further application. In this paper, we propose a novel blockchain design that fully recycles the energy required for facilitating and maintaining it, which is re-invested to the computation of deep learning. We realize this by proposing Proof-of-Deep-Learning (PoDL) such that a valid proof for a new block can be generated if and only if a proper deep learning model is produced. We present a proof-of-concept design of PoDL that is compatible with the majority of the cryptocurrencies that are based on hash-based PoW mechanisms. Our benchmark and simulation results show that the proposed design is feasible for various popular cryptocurrencies such as Bitcoin, Bitcoin Cash, and Litecoin.
+[Download paper here](https://arxiv.org/pdf/1902.03912.pdf)
+
+BibTex: 
+@inproceedings{chenli2019energy,
+  title={Energy-recycling blockchain with proof-of-deep-learning},
+  author={Chenli, Changhao and Li, Boyang and Shi, Yiyu and Jung, Taeho},
+  booktitle={2019 IEEE International Conference on Blockchain and Cryptocurrency (ICBC)},
+  pages={19--23},
+  year={2019},
+  organization={IEEE}
+}
