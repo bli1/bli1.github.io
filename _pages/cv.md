@@ -62,12 +62,17 @@ Award
 
 Work experience
 ======
+* Spring 2020: Research Assistant
+  * University of Notre Dame
+  * Project: Novel Consensus blockchain system.
+  * Supervisor: Prof. Yiyu Shi and Prof. Taeho Jung
+  
 * Summer 2017: Research Assistant
   * Zhejiang University
   * Project: Scheduling Considering Non-Schedulable Appliances in Smart Home
   * Supervisor: Prof. Cheng Zhuo
 
-* Fall 2016: Research Assistant
+* Summer 2016: Research Assistant
   * Tsinghua University
   * Project: Privacy-Aware Cost-Effective Scheduling in Smart Home
   * Supervisor: Prof. Wenjian Yu
