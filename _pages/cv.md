@@ -23,6 +23,11 @@ Skills
 * Toolkits: Tensorflow, PyTorch, scikit-learn, OpenCV, Blender, Panda3D, RenderPipeline, COMSOL, ATHENA and ATLAS Simulation (Silvaco) and etc..
 
 
+Certifications
+======
+* Coursera: i) Neural Networks and Deep Learning, ii) Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization, iii) Recommendation Systems with TensorFlow on GCP, iv) Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning.
+* Udacity: i) Deep Learning, ii) Sensor Fusion
+
 
 Projects
 ======
