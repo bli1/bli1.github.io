@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Boyang Li"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,10 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+Curriculum Vitae
+
+Email: bli1 at nd.edu | Website: https://bli1.github.io 
 
 Education
 ======
