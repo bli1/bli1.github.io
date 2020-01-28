@@ -51,6 +51,13 @@ Projects
 
         • Developed a scheduler which aims to minimize the expected sum of electricity cost under the privacy awareness constraint in a smart home system.
         • Developed an iterative alternative algorithm to schedule appliances and rechargeable battery thus protects customer privacy and alleviates the influence of operation uncertainties introduced by non-schedulable appliances.
+        
+* Other Projects
+
+        i) Short Video Understanding Challenge: predicted the probability that each user finishes watching and likes a given video based on a content-based, collaborative-based, and knowledge-based dataset.
+        ii) Hybrid movie recommendation: suggested movies based on user preference, genre, and theme, and collaborative information, respectively.
+        iii) Live basic math auto grader: applied for checking the handwritten basic math equations based on the MNIST classifier.
+        iv) Language translator: implemented a statistical machine translation model that applied finite automata, transducer, n-gram language model and hard EM algorithm.
 
 * Split-Ring Resonator(SRR) Metamaterials Simulation and Fabrication
 
@@ -61,19 +68,13 @@ Projects
 
         • Calculated depletion region, working function, threshold voltage, MOS capacitor and MOSFET operation with equations, and simulated MOS and MOSFET with simulators (ATHENA and ATLAS Simulation (Silvaco)).
         • Measured and analyzed NMOS capacitor characterization using high frequency C-V measurement.
-        
-* Other Projects
-
-        i) Short Video Understanding Challenge: predicted the probability that each user finishes watching and likes a given video based on a content-based, collaborative-based, and knowledge-based dataset.
-        ii) Hybrid movie recommendation: suggested movies based on user preference, genre, and theme, and collaborative information, respectively.
-        iii) Live basic math auto grader: applied for checking the handwritten basic math equations based on the MNIST classifier.
-        iv) Language translator: implemented a statistical machine translation model that applied finite automata, transducer, n-gram language model and hard EM algorithm.
 
 
 Award
 ======
 * IEEE Biometric Council Best Student Paper Award at 2019 CVPR workshop
 * University of Notre Dame Internal Grand Award (2019)
+
 
 Work experience
 ======
