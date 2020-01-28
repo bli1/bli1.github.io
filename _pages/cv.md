@@ -79,7 +79,7 @@ Work experience
 ======
 * Spring 2020: Research Assistant
   * University of Notre Dame
-  * Project: Hybrid Training Scheme 
+  * Project: Hybrid Deep Learning Training Scheme 
   * Supervisor: Prof. Yiyu Shi and Prof. Taeho Jung
   
 * Fall 2018: Research Assistant
