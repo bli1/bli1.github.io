@@ -67,6 +67,11 @@ Work experience
   * Project: Novel Consensus blockchain system.
   * Supervisor: Prof. Yiyu Shi and Prof. Taeho Jung
   
+* Fall 2018: Research Assistant
+  * University of Notre Dame
+  * Project: Proof-of-Deep-learning (PoDL) Consensus
+  * Supervisor: Prof. Yiyu Shi and Prof. Taeho Jung
+  
 * Summer 2017: Research Assistant
   * Zhejiang University
   * Project: Scheduling Considering Non-Schedulable Appliances in Smart Home
