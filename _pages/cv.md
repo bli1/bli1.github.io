@@ -19,12 +19,9 @@ Education
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Coding language: Python, MATLAB, C++.
+* Toolkits: Tensorflow, PyTorch, scikit-learn, OpenCV, Blender, Panda3D, RenderPipeline, COMSOL, ATHENA and ATLAS Simulation (Silvaco) and etc..
+
 
 
 Projects
@@ -65,15 +62,15 @@ Award
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2017: Research Assistant
+  * Zhejiang University
+  * Project: Scheduling Considering Non-Schedulable Appliances in Smart Home
+  * Supervisor: Prof. Cheng Zhuo
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2016: Research Assistant
+  * Tsinghua University
+  * Project: Privacy-Aware Cost-Effective Scheduling in Smart Home
+  * Supervisor: Prof. Wenjian Yu
   
 
 Publications
@@ -96,4 +93,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* NSF I/UCRC ASIC Center Annual Meeting Secretary. https://asic.nd.edu
+* Academic paper reviewer.
+
