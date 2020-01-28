@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c17bd1ed-2b1a-44af-8b49-2bea04078fe5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_publications/2019-05-14-podl.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/2019-05-14-podl.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_publications/2019-06-01-smart-home.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/2019-06-01-smart-home.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_publications/2019-06-16-cvprw.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/2019-06-16-cvprw.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_publications/2019-08-16-real-time-attack.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/2019-08-16-real-time-attack.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_portfolio/portfolio-1.md" beforeDir="false" afterPath="$PROJECT_DIR$/_portfolio/portfolio-1.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,7 +19,7 @@
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="336">
-              <caret line="96" column="20" lean-forward="true" selection-start-line="96" selection-start-column="20" selection-end-line="96" selection-end-column="20" />
+              <caret line="96" column="20" selection-start-line="96" selection-start-column="20" selection-end-line="96" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -40,12 +36,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_publications/2019-06-01-smart-home.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="330">
-                <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+              <first_editor relative-caret-position="15">
+                <caret line="1" column="100" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="100" />
               </first_editor>
               <second_editor />
             </state>
@@ -109,12 +105,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_portfolio/portfolio-1.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="30">
-                <caret line="2" column="90" lean-forward="true" selection-start-line="2" selection-start-column="54" selection-end-line="2" selection-end-column="90" />
+              <first_editor relative-caret-position="90">
+                <caret line="6" column="58" selection-start-line="6" selection-start-column="58" selection-end-line="6" selection-end-column="58" />
               </first_editor>
               <second_editor />
             </state>
@@ -155,12 +151,13 @@
         <option value="$PROJECT_DIR$/_posts/2012-08-14-blog-post-1.md" />
         <option value="$PROJECT_DIR$/_data/navigation.yml" />
         <option value="$PROJECT_DIR$/_pages/about.md" />
-        <option value="$PROJECT_DIR$/_pages/cv.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_publications/2019-05-14-podl.md" />
         <option value="$PROJECT_DIR$/_publications/2019-08-16-real-time-attack.md" />
         <option value="$PROJECT_DIR$/_publications/2019-06-16-cvprw.md" />
         <option value="$PROJECT_DIR$/_publications/2019-06-01-smart-home.md" />
+        <option value="$PROJECT_DIR$/_pages/cv.md" />
+        <option value="$PROJECT_DIR$/_portfolio/portfolio-1.md" />
       </list>
     </option>
   </component>
@@ -195,7 +192,7 @@
             <path>
               <item name="github_io" type="b2602c69:ProjectViewProjectNode" />
               <item name="github_io" type="462c0819:PsiDirectoryNode" />
-              <item name="_pages" type="462c0819:PsiDirectoryNode" />
+              <item name="_portfolio" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="github_io" type="b2602c69:ProjectViewProjectNode" />
@@ -239,18 +236,17 @@
       <updated>1579416535566</updated>
       <workItem from="1579416536823" duration="9791000" />
       <workItem from="1579472053983" duration="3753000" />
-      <workItem from="1580160608329" duration="15058000" />
+      <workItem from="1580160608329" duration="16322000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28602000" />
+    <option name="totallyTimeSpent" value="29866000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="965" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49744463" visible="true" weight="0.25579977" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49744463" visible="true" weight="0.25579977" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.5025554" side_tool="true" weight="0.25579977" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -264,7 +260,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50061053" side_tool="true" weight="0.32875144" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4993895" visible="true" weight="0.32760596" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.4993895" visible="true" weight="0.32760596" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -594,26 +590,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_portfolio/portfolio-1.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="30">
-            <caret line="2" column="90" lean-forward="true" selection-start-line="2" selection-start-column="54" selection-end-line="2" selection-end-column="90" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_pages/cv.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="210">
-            <caret line="14" selection-start-line="14" selection-end-line="14" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_data/navigation.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -624,7 +600,7 @@
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
-          <caret line="96" column="20" lean-forward="true" selection-start-line="96" selection-start-column="20" selection-end-line="96" selection-end-column="20" />
+          <caret line="96" column="20" selection-start-line="96" selection-start-column="20" selection-end-line="96" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -658,11 +634,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_pages/cv.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="210">
+            <caret line="14" selection-start-line="14" selection-end-line="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_publications/2019-06-01-smart-home.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="330">
-            <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <first_editor relative-caret-position="15">
+            <caret line="1" column="100" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="100" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_portfolio/portfolio-1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="90">
+            <caret line="6" column="58" selection-start-line="6" selection-start-column="58" selection-end-line="6" selection-end-column="58" />
           </first_editor>
           <second_editor />
         </state>
