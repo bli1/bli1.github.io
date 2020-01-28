@@ -47,6 +47,16 @@ Projects
         • Developed a scheduler which aims to minimize the expected sum of electricity cost under the privacy awareness constraint in a smart home system.
         • Developed an iterative alternative algorithm to schedule appliances and rechargeable battery thus protects customer privacy and alleviates the influence of operation uncertainties introduced by non-schedulable appliances.
 
+* Split-Ring Resonator(SRR) Metamaterials Simulation and Fabrication
+
+        • Designed and simulated the periodic structure with COMSOL Multiple Physics.
+        • Fabricated the SRR devices with Focus-Ion-Beam and evaluated with Fourier-Transform Infrared Spectroscopy
+        
+* MOSFET Fundamentals, Simulation, and Measurement
+
+        • Calculated depletion region, working function, threshold voltage, MOS capacitor and MOSFET operation with equations, and simulated MOS and MOSFET with simulators (ATHENA and ATLAS Simulation (Silvaco)).
+        • Measured and analyzed NMOS capacitor characterization using high frequency C-V measurement.
+        
 * Other Projects
 
         i) Short Video Understanding Challenge: predicted the probability that each user finishes watching and likes a given video based on a content-based, collaborative-based, and knowledge-based dataset.
