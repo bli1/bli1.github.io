@@ -16,7 +16,7 @@ description              : &description "Personal Page"
 url                      : https://bli1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bli1.github.io"
-teaser                   : /images/bli1.jpeg # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : false
@@ -83,7 +83,7 @@ analytics:
 # Site Author
 author:
   name             : "Boyang Li"
-  avatar           : "profile.png"
+  avatar           : "bli1.jpeg"
   bio              : "His research interests include deep learning, computer vision, auto driving, optimization, and novel blockchain mechanism."
   location         : "Location"
   employer         : "University of Notre Dame"
