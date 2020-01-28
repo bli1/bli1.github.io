@@ -1,5 +1,5 @@
 ---
-title: "Design/Analysis of Algorithms (teaching assistant)"
+title: "Design/Analysis of Algorithms Fall 2019 (teaching assistant)"
 collection: teaching
 type: "CSE 40113"
 permalink: /teaching/2019-fall-teaching-1
