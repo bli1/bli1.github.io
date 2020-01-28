@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Boyang Li"
-excerpt: "About me<br/><img src='/images/500x300.png'>"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
