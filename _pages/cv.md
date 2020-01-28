@@ -64,7 +64,7 @@ Work experience
 ======
 * Spring 2020: Research Assistant
   * University of Notre Dame
-  * Project: Novel Consensus blockchain system.
+  * Project: Hybrid Training Scheme 
   * Supervisor: Prof. Yiyu Shi and Prof. Taeho Jung
   
 * Fall 2018: Research Assistant
