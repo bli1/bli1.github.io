@@ -11,7 +11,7 @@ redirect_from:
 
 Curriculum Vitae
 
-Email: bli1 at nd.edu | Website: https://bli1.github.io 
+Email: bli1 at nd.edu, Website: https://bli1.github.io 
 
 Education
 ======
